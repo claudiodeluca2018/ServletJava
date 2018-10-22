@@ -15,7 +15,7 @@ import javax.servlet.http.HttpSession;
 import com.modelo.Calcular;
 
 /**
- * Servlet implementation class Controlador
+ * Servlet implementation class Controlador opop
  */
 @WebServlet("/Controlador")
 public class Controlador extends HttpServlet {
