@@ -1,7 +1,7 @@
 package com.modelo;
 
 public class Calcular {
-
+    private Integer gitY = 0;
 	private boolean cargado = false;
 	private String nombre , direccion;
 	private int diasTrabajados;
